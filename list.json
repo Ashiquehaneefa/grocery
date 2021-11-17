@@ -1,0 +1,83 @@
+[
+    {
+        "slno": "1",    
+        "name": "Milk",
+        "quantity": "2 L",
+        "unit": "1",
+        "department": "Beverages",
+        "notes": "Stonyfield Organic"
+    },
+    {
+        "slno": "2",    
+        "name": "Eggs",
+        "quantity": "12 Nos",
+        "unit": "1",
+        "department": "Baking",
+        "notes": "Free range"
+    },
+    {
+        "slno": "3",    
+        "name": "Lettuce",
+        "quantity": "1 Kg",
+        "unit": "1",
+        "department": "Vegetables",
+        "notes": "Fresh"
+    },
+    {
+        "slno": "4",    
+        "name": "Broccoli",
+        "quantity": "1 Kg",
+        "unit": "2",
+        "department": "Vegetables",
+        "notes": "Fresh"
+    },
+    {
+        "slno": "5",    
+        "name": "Tomatoes",
+        "quantity": "1 Kg",
+        "unit": "5",
+        "department": "Vegetables",
+        "notes": "Fresh"
+    },
+    {
+        "slno": "6",    
+        "name": "Olives",
+        "quantity": "500 Gms",
+        "unit": "2",
+        "department": "Canned Goods",
+        "notes": "Amfissa"
+    },
+    {
+        "slno": "7",    
+        "name": "Soap",
+        "quantity": "25 gm",
+        "unit": "1",
+        "department": "Personal care",
+        "notes": "Boroplus"
+    },
+    {
+        "slno": "8",    
+        "name": "Chicken",
+        "quantity": "1 Kg",
+        "unit": "3",
+        "department": "Meat",
+        "notes": "Boneless"
+    },
+    {
+        "slno": "9",    
+        "name": "Rice",
+        "quantity": "1 Kg",
+        "unit": "4",
+        "department": "Cereal",
+        "notes": "Long grain"
+    },
+    {
+        "slno": "10",    
+        "name": "Chips",
+        "quantity": "1 Kg",
+        "unit": "1",
+        "department": "Snacks",
+        "notes": "Potato"
+    }
+   
+]

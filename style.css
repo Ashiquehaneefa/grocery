@@ -1,0 +1,29 @@
+#shopping-info {
+    margin: 15%;
+    margin-top: 5%;
+}
+
+body {
+    background-image: url("shop.jpg");
+    background-color: #cccccc;
+  background-size: cover;
+  background-repeat: no-repeat;
+   }
+#btn {
+    margin-left: 50%;
+    margin-top: 5%;
+    font-size: 175%;
+}
+
+table {
+    border: 1px solid black;
+    table-layout: fixed;
+    width: 200px;
+  }
+  
+  th,
+  td {
+    border: 1px solid black;
+    width: 100px;
+    overflow: hidden;
+  }
